@@ -2,7 +2,11 @@ const nameGirl = 'Trang';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc bạn Trang 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
+const contentCard = 'Nhân ngày phụ nữ Việt Nam chúc Trang xinh gái được ngàn lời yêu
+                     Người thương chăm sóc nuông chiều 
+                     Sống trong áp lực phải đi tiêu tiền 
+                     Niềm vui cứ để triền miên 
+                     Không phải suy nghĩ nặng đầu phiền lo';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
