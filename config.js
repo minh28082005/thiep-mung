@@ -1,5 +1,5 @@
 const nameGirl = 'Trang';
-const giftUrl = 'http://nodemy.vn';
+
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Nhân ngày phụ nữ Việt Nam chúc Trang xinh gái được ngàn lời yêu
